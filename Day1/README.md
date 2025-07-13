@@ -29,10 +29,9 @@ On **Day 1**, I explored the basics of **Machine Learning (ML)** — what it is,
 
 ---
 
-## ✅ Next Steps
-- Continue learning about ML algorithms.
-- Implement simple ML models.
-- Document daily progress and insights.
+## 🚀 Next
+
+🔜 Dive into different **types of Machine Learning** and examples.ument daily progress and insights.
 
 ---
 
