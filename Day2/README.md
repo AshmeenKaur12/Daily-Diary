@@ -1,17 +1,17 @@
-# 📗 Daily Diary - Day 2: Types of Machine Learning
+# Daily Diary - Day 2: Types of Machine Learning
 
 **Date:** June 24, 2025
 
 ---
 
-## 📖 Overview
+## Overview
 
 On **Day 2**, I explored the different **types of Machine Learning** and how they are used in real-world applications.  
 This entry builds on the basics from Day 1 and dives deeper into how machines learn using different methods.
 
 ---
 
-## 🧩 Topics Covered
+## Topics Covered
 
 ### 🔹 1. Supervised Learning
 - **Definition:** Models learn from **labeled datasets** with known input-output pairs.
@@ -47,7 +47,7 @@ This entry builds on the basics from Day 1 and dives deeper into how machines le
 
 ---
 
-## ✅ What I Learned
+## What I Learned
 - Differences between **supervised**, **unsupervised**, and **reinforcement learning**.
 - Common use cases for each type.
 - How reinforcement learning uniquely relies on feedback from actions.
