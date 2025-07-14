@@ -1,30 +1,30 @@
-# 📊 Day 9 — Basic Statistics for ML
+# Day 9 — Basic Statistics for ML
 
-**📅 Date:** July 3, 2025
+**Date:** July 3, 2025
 
 ---
 
-## ✨ Summary
+## Summary
 
 Learned **statistical tools** used in ML: Mean, Median, Mode, Standard Deviation, Percentiles, and data plots.
 
 ---
 
-## 🗂️ Key Points
+## Key Points
 
-- 📌 Mean, Median, Mode in NumPy & SciPy.
-- 📌 Standard Deviation & spread.
-- 📌 Percentiles.
-- 📌 Matplotlib: Scatter plot.
+- Mean, Median, Mode in NumPy & SciPy.
+- Standard Deviation & spread.
+- Percentiles.
+- Matplotlib: Scatter plot.
 
 ---
 
-## 📝 Files
+## Files
 
 - `Day9.pdf`: Stats formulas & Python code.
 
 ---
 
-## 🚀 Next
+## Next
 
-🔜 Apply stats to real datasets with Pandas.
+Apply stats to real datasets with Pandas.
