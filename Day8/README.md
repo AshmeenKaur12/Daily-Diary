@@ -1,30 +1,30 @@
-# 🐍 Day 8 — Python Programming Basics
+# Day 8 — Python Programming Basics
 
-**📅 Date:** July 2, 2025
+**Date:** July 2, 2025
 
 ---
 
-## ✨ Summary
+## Summary
 
 Practiced **core Python syntax** — print, input, conditionals, loops, functions, and data structures.
 
 ---
 
-## 🗂️ Key Points
+## Key Points
 
-- ✅ Variables, operators.
-- ✅ User input & output.
-- ✅ If-else, for, while loops.
-- ✅ Functions, lists, tuples, sets, dictionaries.
+- Variables, operators.
+- User input & output.
+- If-else, for, while loops.
+- Functions, lists, tuples, sets, dictionaries.
 
 ---
 
-## 📝 Files
+## Files
 
 - `Day8.pdf`: Examples & code snippets.
 
 ---
 
-## 🚀 Next
+## Next
 
-🔜 Write small Python apps (calculator, data analyzer).
+Write small Python apps (calculator, data analyzer).
