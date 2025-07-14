@@ -5,13 +5,13 @@
 
 ---
 
-## 📖 Description
+## Description
 This daily diary is part of my learning journey into **Artificial Intelligence and Machine Learning**.  
 On **Day 1**, I explored the basics of **Machine Learning (ML)** — what it is, why we need it, and how machines actually learn.
 
 ---
 
-## 📌 Key Topics Covered
+## Key Topics Covered
 - **What is Machine Learning?**
   - A branch of AI that enables systems to learn from data without explicit programming.
 - **Importance of Machine Learning**
@@ -29,7 +29,7 @@ On **Day 1**, I explored the basics of **Machine Learning (ML)** — what it is,
 
 ---
 
-## 🚀 Next
+## Next
 
 🔜 Dive into different **types of Machine Learning** and examples.ument daily progress and insights.
 
