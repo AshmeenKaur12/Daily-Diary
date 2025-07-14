@@ -47,7 +47,6 @@ Key implementation steps:
 ## Files
 
 - `Day13.pdf` — Full explanation & Python code.
-- `linear_regression_A.gif` — Animated training process.
 
 ---
 
