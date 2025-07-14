@@ -1,6 +1,6 @@
 # Daily Diary - Artificial Intelligence and Machine Learning
 
-## 📅 Day 1: Introduction to Machine Learning  
+## Day 1: Introduction to Machine Learning  
 **Date:** June 23, 2025
 
 ---
@@ -31,7 +31,7 @@ On **Day 1**, I explored the basics of **Machine Learning (ML)** — what it is,
 
 ## Next
 
-🔜 Dive into different **types of Machine Learning** and examples.ument daily progress and insights.
+Dive into different **types of Machine Learning** and examples.ument daily progress and insights.
 
 ---
 
