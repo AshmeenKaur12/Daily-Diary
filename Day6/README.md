@@ -1,16 +1,16 @@
-# 🐍 Day 6 — Python & Tools Setup
+# Day 6 — Python & Tools Setup
 
-**📅 Date:** June 30, 2025
+**Date:** June 30, 2025
 
 ---
 
-## ✨ Summary
+## Summary
 
 Set up **Python**, **PIP**, **Jupyter Notebook**, and **Scikit-Learn** on Ubuntu.
 
 ---
 
-## 🗂️ Key Points
+## Key Points
 
 - ✅ Installed Python 3 & PIP.
 - ✅ Verified installation.
@@ -18,12 +18,12 @@ Set up **Python**, **PIP**, **Jupyter Notebook**, and **Scikit-Learn** on Ubuntu
 
 ---
 
-## 📝 Files
+## Files
 
 - `Day6.pdf`: Commands & setup steps.
 
 ---
 
-## 🚀 Next
+## Next
 
-🔜 Run Python notebooks & test sklearn examples.
+Run Python notebooks & test sklearn examples.
