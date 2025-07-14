@@ -20,8 +20,11 @@ Explored **Convolutional Neural Networks (CNNs)**, **K-Nearest Neighbors (KNN)**
 
 ---
 
-## Files
+## References
 
-- `Day10.pdf`: Concepts & setup steps.
+- `Day10 4-7-2025.pdf` — Full notes & setup steps  
+-  [Apache Docs](https://httpd.apache.org/) | [MySQL Docs](https://dev.mysql.com/doc/) | [PHP Docs](https://www.php.net/)
 
 ---
+
+> “CNNs see the world, KNN compares it, and LAMP powers the web behind it.”
