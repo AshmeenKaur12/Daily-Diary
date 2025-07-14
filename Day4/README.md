@@ -1,16 +1,16 @@
-# 🔧 Day 4 — Git & GitHub
+# Day 4 — Git & GitHub
 
-**📅 Date:** June 26, 2025
+** Date:** June 26, 2025
 
 ---
 
-## ✨ Summary
+## Summary
 
 Learned **version control** basics using **Git** & **GitHub**. Practiced commands and explored the **MYCIN Expert System**.
 
 ---
 
-## 🗂️ Key Points
+## Key Points
 
 - Git = Local version control.
 - GitHub = Cloud hosting & collaboration.
@@ -19,12 +19,12 @@ Learned **version control** basics using **Git** & **GitHub**. Practiced command
 
 ---
 
-## 📝 Files
+## Files
 
 - `Day4.pdf`: Git guide & MYCIN notes.
 
 ---
 
-## 🚀 Next
+## Next
 
-🔜 Use Git to manage my code versions daily.
+Use Git to manage my code versions daily.
