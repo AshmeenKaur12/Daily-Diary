@@ -1,32 +1,32 @@
-# 🤖 Day 5 — Artificial Intelligence
+# Day 5 — Artificial Intelligence
 
-**📅 Date:** June 27, 2025
+**Date:** June 27, 2025
 
 ---
 
-## ✨ Summary
+## Summary
 
 Dove into **AI fundamentals**, its history, and different levels of intelligence.
 
 ---
 
-## 🗂️ Key Points
+## Key Points
 
-- 🧠 What is AI? Machines mimicking human intelligence.
-- 📚 History: Turing Test, Dartmouth Workshop.
-- 🎯 Types:
+- What is AI? Machines mimicking human intelligence.
+- History: Turing Test, Dartmouth Workshop.
+- Types:
   - Narrow AI: Limited, task-specific.
   - General AI: Human-level capabilities (theoretical).
   - Super AI: Surpasses human intelligence (conceptual).
 
 ---
 
-## 📝 Files
+## Files
 
 - `Day5.pdf`: Detailed AI notes.
 
 ---
 
-## 🚀 Next
+## Next
 
-🔜 Explore real-world AI use cases and tools.
+Explore real-world AI use cases and tools.
