@@ -47,7 +47,7 @@ clf.fit(X_train, y_train)
 # Evaluate
 acc = accuracy_score(y_test, clf.predict(X_test)) * 100
 print(f"Logistic Regression model accuracy: {acc:.2f}%")
-'''
+```
 
 ## References
 
