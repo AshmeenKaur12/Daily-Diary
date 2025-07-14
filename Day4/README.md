@@ -1,6 +1,6 @@
 # Day 4 — Git & GitHub
 
-** Date:** June 26, 2025
+**Date:** June 26, 2025
 
 ---
 
