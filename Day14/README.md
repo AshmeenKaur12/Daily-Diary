@@ -47,3 +47,12 @@ clf.fit(X_train, y_train)
 # Evaluate
 acc = accuracy_score(y_test, clf.predict(X_test)) * 100
 print(f"Logistic Regression model accuracy: {acc:.2f}%")
+
+## References
+
+- `Day14.pdf` — Full notes & examples  
+- [scikit-learn Documentation](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
+
+---
+
+> "Logistic Regression: A simple yet powerful way to classify the world in 0s and 1s."
