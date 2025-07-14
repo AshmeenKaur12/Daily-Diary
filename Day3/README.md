@@ -1,16 +1,16 @@
-# 🐧 Day 3 — Linux Basics
+# Day 3 — Linux Basics
 
-**📅 Date:** June 25, 2025
+** Date:** June 25, 2025
 
 ---
 
-## ✨ Summary
+## Summary
 
 Installed **Ubuntu**, learned what Linux is, its kernel, and practiced essential terminal commands.
 
 ---
 
-## 🗂️ Key Points
+## Key Points
 
 - Linux = Free, open-source OS built on Unix.
 - Installed Ubuntu Desktop.
@@ -18,12 +18,12 @@ Installed **Ubuntu**, learned what Linux is, its kernel, and practiced essential
 
 ---
 
-## 📝 Files
+## Files
 
 - `Day3.pdf`: Linux intro, install guide, commands.
 
 ---
 
-## 🚀 Next
+## Next
 
-🔜 Use Linux daily for projects and ML setups.
+Use Linux daily for projects and ML setups.
