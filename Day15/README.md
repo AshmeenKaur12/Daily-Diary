@@ -31,3 +31,27 @@ Install curl:
 ```bash
 sudo apt install curl
 ```
+### 2️ Download Ollama
+
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+```
+### 3️ Verify Installation
+
+```bash
+ollama --version
+```
+### 4️ Run Llama 3.3
+
+```bash
+ollama run llama3
+```
+---
+
+# References
+ - Day15 11-07-2025.pdf — Full setup guide
+ - Ollama Official Website
+
+---
+
+> “Llama 3: A powerful leap in open-source AI for developers and researchers.”
