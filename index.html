@@ -5,16 +5,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Daily Diary</title>
   <style>
+    :root {
+      --bg: #f0f4f8;
+      --text: #333;
+      --card-bg: #fff;
+      --accent: #2980b9;
+    }
+
+    [data-theme="dark"] {
+      --bg: #121212;
+      --text: #eee;
+      --card-bg: #1e1e1e;
+      --accent: #4db8ff;
+    }
+
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: #f0f4f8;
-      color: #333;
+      background: var(--bg);
+      color: var(--text);
       margin: 0;
       padding: 0;
+      transition: background 0.3s, color 0.3s;
     }
 
     header {
-      background: #2980b9;
+      background: var(--accent);
       color: #fff;
       padding: 40px 20px;
       text-align: center;
@@ -26,137 +41,202 @@
     }
 
     header p {
-      margin: 0;
+      margin: 0 0 10px;
       font-size: 1.1em;
     }
 
+    .controls {
+      margin: 20px auto 0;
+      text-align: center;
+    }
+
+    .controls input {
+      padding: 10px;
+      width: 200px;
+      max-width: 80%;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      outline: none;
+    }
+
+    .controls button {
+      margin-left: 10px;
+      padding: 10px 15px;
+      background: #fff;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
     main {
-      max-width: 1200px;
+      max-width: 900px;
       margin: 40px auto;
       padding: 0 20px;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 20px;
+    }
+
+    .timeline {
+      position: relative;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 20px;
+      top: 0;
+      bottom: 0;
+      width: 4px;
+      background: var(--accent);
     }
 
     .card {
-      background: #fff;
+      position: relative;
+      margin: 20px 0 20px 60px;
+      background: var(--card-bg);
       border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
       padding: 20px;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: background 0.3s;
     }
 
-    .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    .card::before {
+      content: '';
+      position: absolute;
+      left: -40px;
+      top: 20px;
+      width: 20px;
+      height: 20px;
+      background: var(--accent);
+      border-radius: 50%;
     }
 
     .card h2 {
       margin-top: 0;
-      color: #2980b9;
-      font-size: 1.5em;
+      color: var(--accent);
     }
 
     .card p {
       margin: 10px 0 20px;
-      font-size: 0.95em;
-      color: #555;
     }
 
     .card a {
       display: inline-block;
-      padding: 10px 15px;
-      background: #2980b9;
+      padding: 8px 12px;
+      background: var(--accent);
       color: #fff;
       text-decoration: none;
       border-radius: 4px;
-      transition: background 0.2s ease;
-    }
-
-    .card a:hover {
-      background: #3498db;
     }
 
     footer {
       text-align: center;
       padding: 20px;
-      background: #2980b9;
+      background: var(--accent);
       color: #fff;
       font-size: 0.9em;
     }
   </style>
 </head>
-<body>
+<body data-theme="light">
   <header>
     <h1>📖 My Daily Diary</h1>
-    <p>A simple way to explore my daily AI & ML notes and practicals</p>
+    <p>Explore AI & ML — day by day</p>
+    <div class="controls">
+      <input type="text" id="search" placeholder="Search days...">
+      <button id="themeToggle">🌙 Toggle Dark Mode</button>
+      <button id="downloadAll">⬇️ Download All</button>
+    </div>
   </header>
 
   <main>
-    <div class="card">
-      <h2>Day 1 (23-06-2025)</h2>
-      <p>Introduction to Machine Learning: Why it matters and how machines learn.</p>
-      <a href="Day1 23-06-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+    <ul class="timeline">
+      <li class="card">
+        <h2>Day 1 (23-06-2025)</h2>
+        <p>Introduction to Machine Learning: Why it matters and how machines learn.</p>
+        <a href="Day1%2023-06-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 2 (24-06-2025)</h2>
-      <p>Types of Machine Learning: Supervised, Unsupervised & Reinforcement Learning.</p>
-      <a href="Day2 24-06-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 2 (24-06-2025)</h2>
+        <p>Types of Machine Learning: Supervised, Unsupervised & Reinforcement.</p>
+        <a href="Day2%2024-06-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 3 (25-06-2025)</h2>
-      <p>Linux: What is Linux, how to install Ubuntu & essential Linux commands.</p>
-      <a href="Day3 25-06-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 3 (25-06-2025)</h2>
+        <p>Linux: Ubuntu install & essential commands.</p>
+        <a href="Day3%2025-06-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 4 (26-06-2025)</h2>
-      <p>Git & GitHub: Version control basics, commands & MYCIN Expert System.</p>
-      <a href="Day4 26-06-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 4 (26-06-2025)</h2>
+        <p>Git, GitHub & MYCIN Expert System.</p>
+        <a href="Day4%2026-06-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 5 (27-06-2025)</h2>
-      <p>Artificial Intelligence: Introduction, types — Narrow AI, General AI, Super AI.</p>
-      <a href="Day5 27-06-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 5 (27-06-2025)</h2>
+        <p>Artificial Intelligence: Narrow, General & Super AI.</p>
+        <a href="Day5%2027-06-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 6 (30-06-2025)</h2>
-      <p>Installing Python, PIP, Jupyter Notebook & Scikit-Learn on Ubuntu.</p>
-      <a href="Day6 30-06-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 6 (30-06-2025)</h2>
+        <p>Python, PIP, Jupyter Notebook & Scikit-learn.</p>
+        <a href="Day6%2030-06-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 7 (01-07-2025)</h2>
-      <p>Vim Editor: Installing & using Vim for editing files in Ubuntu.</p>
-      <a href="Day7 1-7-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 7 (01-07-2025)</h2>
+        <p>Vim Editor basics in Ubuntu.</p>
+        <a href="Day7%201-7-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 8 (02-07-2025)</h2>
-      <p>Python Programming: Syntax, comments, variables, loops & functions.</p>
-      <a href="Day8 2-7-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 8 (02-07-2025)</h2>
+        <p>Python Programming: syntax, loops, functions.</p>
+        <a href="Day8%202-7-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 9 (03-07-2025)</h2>
-      <p>Statistics: Mean, Median, Mode, Standard Deviation & Matplotlib in Python.</p>
-      <a href="Day9 3-7-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 9 (03-07-2025)</h2>
+        <p>Statistics: Mean, Median, Mode & Matplotlib.</p>
+        <a href="Day9%203-7-2025.pdf" target="_blank">Open PDF</a>
+      </li>
 
-    <div class="card">
-      <h2>Day 10 (04-07-2025)</h2>
-      <p>Convolutional Neural Networks (CNN) & K-Nearest Neighbor (KNN) Algorithm.</p>
-      <a href="Day10 4-7-2025.pdf" target="_blank">Open PDF</a>
-    </div>
+      <li class="card">
+        <h2>Day 10 (04-07-2025)</h2>
+        <p>CNN & KNN Algorithm in ML.</p>
+        <a href="Day10%204-7-2025.pdf" target="_blank">Open PDF</a>
+      </li>
+    </ul>
   </main>
 
   <footer>
     &copy; 2025 Ashmeen Kaur | Hosted with ❤️ on GitHub Pages
   </footer>
+
+  <script>
+    const themeToggle = document.getElementById('themeToggle');
+    const searchInput = document.getElementById('search');
+    const downloadAll = document.getElementById('downloadAll');
+
+    themeToggle.onclick = () => {
+      document.body.dataset.theme = document.body.dataset.theme === 'dark' ? 'light' : 'dark';
+    };
+
+    searchInput.addEventListener('input', () => {
+      const filter = searchInput.value.toLowerCase();
+      document.querySelectorAll('.card').forEach(card => {
+        card.style.display = card.textContent.toLowerCase().includes(filter) ? 'block' : 'none';
+      });
+    });
+
+    downloadAll.onclick = () => {
+      window.location.href = 'Daily-Diary.zip'; // Replace with your actual ZIP path
+    };
+  </script>
 </body>
 </html>
