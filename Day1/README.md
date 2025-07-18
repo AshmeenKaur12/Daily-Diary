@@ -29,7 +29,7 @@ On **Day 1**, I explored the basics of **Machine Learning (ML)** — what it is,
 
 ---
 
-# Author
+## Author
 
 **Name:** Ashmeen Kaur  
 **URN:** 2302486  
