@@ -25,6 +25,14 @@ Learned **statistical tools** used in ML: Mean, Median, Mode, Standard Deviation
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 ## Next
 
 Apply stats to real datasets with Pandas.
