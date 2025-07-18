@@ -66,6 +66,13 @@ NLP combines computer science, linguistics, and machine learning to unlock value
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
 
 > *“NLP lets computers read, listen, and talk — unlocking the power of human language.”*
 
