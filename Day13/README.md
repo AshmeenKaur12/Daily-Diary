@@ -32,18 +32,6 @@ I learned how it maps data points with an optimized linear function to make pred
 
 ---
 
-## Python Implementation
-
-Key implementation steps:
-1️ **Import Libraries:** pandas, numpy, matplotlib.  
-2️ **Load Dataset:** Separate training & testing data.  
-3️ **Forward Propagation:** Calculate predictions using `Y = mx + c`.  
-4️ **Cost Function:** Mean squared error.  
-5️ **Backpropagation:** Compute gradients for `m` and `c` and update using learning rate.  
-6️ **Train:** Animate the line fitting process and save as a GIF.
-
----
-
 ## Files
 
 - `Day13.pdf` — Full explanation & Python code.
