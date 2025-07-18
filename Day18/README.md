@@ -50,5 +50,13 @@ It helps businesses understand customer opinions and manage brand reputation.
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > *“Sentiment Analysis turns raw text into valuable emotional insights for smarter decisions.”*
 
