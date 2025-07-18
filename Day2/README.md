@@ -54,4 +54,12 @@ This entry builds on the basics from Day 1 and dives deeper into how machines le
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > *"The best way to learn is to keep experimenting and exploring."*
