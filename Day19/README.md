@@ -46,5 +46,14 @@ python3 -m http.server 8000
 - i.html — The chat page with HTML + JavaScript.
 - Day19.pdf — Notes on project steps & explanation.
 
+---
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > “Talking to AI locally — fast, private, and entirely under your control.”
 
