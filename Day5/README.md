@@ -30,3 +30,13 @@ Dove into **AI fundamentals**, its history, and different levels of intelligence
 ## Next
 
 Explore real-world AI use cases and tools.
+
+---
+
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
