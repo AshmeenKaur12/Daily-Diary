@@ -60,5 +60,13 @@ TensorFlow makes it easy to design, train, convert, optimize, and run ML models 
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > **"TensorFlow lets you build AI that runs everywhere — from servers to sensors."**
 
