@@ -54,4 +54,12 @@ ollama run llama3
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > “Llama 3: A powerful leap in open-source AI for developers and researchers.”
