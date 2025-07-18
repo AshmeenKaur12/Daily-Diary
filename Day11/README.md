@@ -64,3 +64,13 @@ This document summarizes fundamental topics in **Machine Learning (ML)** and **A
 
 **Document:** Day11 7-7-2025.pdf  
 **Prepared for:** AI & ML Training Program
+
+---
+
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
