@@ -28,3 +28,13 @@ Practiced **core Python syntax** — print, input, conditionals, loops, function
 ## Next
 
 Write small Python apps (calculator, data analyzer).
+
+---
+
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
