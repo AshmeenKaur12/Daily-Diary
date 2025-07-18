@@ -56,5 +56,13 @@ I explored how they mimic the human brain’s interconnected neurons to learn pa
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > **"Neural Networks imitate how humans learn — layer by layer, connection by connection."**
 
