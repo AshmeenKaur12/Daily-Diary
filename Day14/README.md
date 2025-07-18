@@ -33,4 +33,12 @@ Logistic Regression uses the **sigmoid function** (for binary) or **softmax func
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > "Logistic Regression: A simple yet powerful way to classify the world in 0s and 1s."
