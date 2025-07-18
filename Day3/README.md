@@ -88,4 +88,14 @@ mv oldname.txt newname.txt      # Move/rename file
 ## Files
 **Day3.pdf** — Notes on Linux basics, install steps & command examples.
 
+---
+
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > “Linux is freedom — you control the system, not the other way around.”
