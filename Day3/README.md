@@ -39,8 +39,53 @@ Linux is a free and open-source OS built on the UNIX foundation. It powers PCs, 
 **System Update:**
 ```bash
 sudo apt update
-```bash
+```
 
 ```bash
 sudo apt upgrade
+```
+**Directory Commands:**
 ```bash
+pwd                 # Show current directory
+```
+
+```bash
+mkdir new_directory # Create a directory
+```
+
+```bash
+rmdir old_directory # Remove empty directory
+```
+
+```bash
+ls                  # List files/folders
+```
+
+```bash
+cd /path/to/dir     # Change directory
+```
+**File Commands:**
+```bash
+touch newfile.txt               # Create empty file
+```
+
+```bash
+cat file.txt                    # Display file content
+```
+
+```bash
+rm file.txt                     # Remove file
+```
+
+```bash
+cp source.txt destination.txt   # Copy file
+```
+
+```bash
+mv oldname.txt newname.txt      # Move/rename file
+```
+
+## Files
+**Day3.pdf** — Notes on Linux basics, install steps & command examples.
+
+> “Linux is freedom — you control the system, not the other way around.”
