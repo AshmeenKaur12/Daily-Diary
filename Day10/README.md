@@ -27,4 +27,12 @@ Explored **Convolutional Neural Networks (CNNs)**, **K-Nearest Neighbors (KNN)**
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > “CNNs see the world, KNN compares it, and LAMP powers the web behind it.”
