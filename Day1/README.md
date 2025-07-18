@@ -29,9 +29,11 @@ On **Day 1**, I explored the basics of **Machine Learning (ML)** — what it is,
 
 ---
 
-## Next
+# Author
 
-Dive into different **types of Machine Learning** and examples.ument daily progress and insights.
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
 
 ---
 
