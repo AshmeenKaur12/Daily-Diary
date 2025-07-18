@@ -27,3 +27,12 @@ Set up **Python**, **PIP**, **Jupyter Notebook**, and **Scikit-Learn** on Ubuntu
 ## Next
 
 Run Python notebooks & test sklearn examples.
+
+---
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
