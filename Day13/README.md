@@ -38,5 +38,13 @@ I learned how it maps data points with an optimized linear function to make pred
 
 ---
 
+## Author
+
+**Name:** Ashmeen Kaur  
+**URN:** 2302486  
+**CRN:** 2315030
+
+---
+
 > **"Linear Regression draws a straight line through the noise — revealing trends that data hides."**
 
