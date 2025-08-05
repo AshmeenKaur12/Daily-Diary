@@ -43,7 +43,7 @@ Sara, 2025-08-05, 09:12:34
 
 ---
 
-**Name:** Ashmeen Kaur  
+**By:** Ashmeen Kaur  
 **URN:** 2302486  
 **CRN:** 2315030
 
