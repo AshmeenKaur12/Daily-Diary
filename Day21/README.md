@@ -1,26 +1,26 @@
-# 👁️‍🗨️ Day 21 — Face Recognition Attendance System
+# Day 21 — Face Recognition Attendance System
 
-**📅 Date:** July 21, 2025
+**Date:** July 21, 2025
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project is a **Face Recognition Attendance System** that detects and identifies individuals from a live camera feed, then marks their attendance in a CSV file with timestamps.  
 Built using **Python** and powerful libraries like **OpenCV**, **face_recognition**, and **Pandas**, it provides real-time recognition and simple logging without needing internet access or external APIs.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
-### 🔤 Programming Language
+### Programming Language
 - **Python**
   - Easy to write and widely supported in computer vision tasks.
   - Seamlessly integrates with OpenCV and machine learning libraries.
 
 ---
 
-### 📚 Libraries & Modules
+### Libraries & Modules
 
 | Library | Purpose |
 |--------|---------|
@@ -33,7 +33,7 @@ Built using **Python** and powerful libraries like **OpenCV**, **face_recognitio
 
 ---
 
-### 📂 Data Handling
+### Data Handling
 
 - **Dataset Folder**: Stores images of known individuals (e.g., `dataset/Amit.jpg`).
 - **CSV File**: Stores attendance log in format
@@ -42,8 +42,6 @@ Sara, 2025-08-05, 09:12:34
 
 
 ---
-
-## ✏️ Author
 
 **Name:** Ashmeen Kaur  
 **URN:** 2302486  
