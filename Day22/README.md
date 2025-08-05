@@ -34,7 +34,7 @@ It captures live video from a webcam, detects and recognizes known faces from a 
 
 6. **Mark Attendance**  
    - If recognized and not already marked, log name and time  
-   - Writes to a CSV file like `attendance_2025-07-22_10-35-41.csv`
+   - Writes to a CSV file like `attendance.csv`
 
 7. **Display Output**  
    - Shows webcam window with name overlay and bounding boxes  
