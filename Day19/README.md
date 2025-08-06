@@ -47,9 +47,8 @@ python3 -m http.server 8000
 - Day19.pdf — Notes on project steps & explanation.
 
 ---
-## Author
 
-**Name:** Ashmeen Kaur  
+**By:** Ashmeen Kaur  
 **URN:** 2302486  
 **CRN:** 2315030
 
