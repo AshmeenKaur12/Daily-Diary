@@ -68,9 +68,8 @@ On **Day 20**, I explored **real-world applications** of **Artificial Intelligen
 - `Day20.pdf` — Detailed notes on practical AI & ML applications.
 
 ---
-## Author
 
-**Name:** Ashmeen Kaur  
+**By:** Ashmeen Kaur  
 **URN:** 2302486  
 **CRN:** 2315030
 
