@@ -54,9 +54,7 @@ This entry builds on the basics from Day 1 and dives deeper into how machines le
 
 ---
 
-## Author
-
-**Name:** Ashmeen Kaur  
+**By:** Ashmeen Kaur  
 **URN:** 2302486  
 **CRN:** 2315030
 
