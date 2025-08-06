@@ -66,9 +66,7 @@ NLP combines computer science, linguistics, and machine learning to unlock value
 
 ---
 
-## Author
-
-**Name:** Ashmeen Kaur  
+**By:** Ashmeen Kaur  
 **URN:** 2302486  
 **CRN:** 2315030
 
