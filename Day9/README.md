@@ -25,9 +25,7 @@ Learned **statistical tools** used in ML: Mean, Median, Mode, Standard Deviation
 
 ---
 
-## Author
-
-**Name:** Ashmeen Kaur  
+**By:** Ashmeen Kaur  
 **URN:** 2302486  
 **CRN:** 2315030
 
