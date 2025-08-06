@@ -30,9 +30,8 @@ Learned **version control** basics using **Git** & **GitHub**. Practiced command
 Use Git to manage my code versions daily.
 
 ---
-## Author
 
-**Name:** Ashmeen Kaur  
+**By:** Ashmeen Kaur  
 **URN:** 2302486  
 **CRN:** 2315030
 
